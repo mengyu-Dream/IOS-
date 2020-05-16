@@ -1,6 +1,6 @@
 # ios规范总结
-## iPhone 界面尺寸
-<img src ='http://img.ui.cn/data/file/0/6/6/705660.png'/>
+## iPhone界面尺寸 规范
+<img src='http://img.ui.cn/data/file/0/6/6/705660.png'/>
 
 ## iPhone 界面规范
 <img src ='http://img.ui.cn/data/file/1/6/6/705661.jpg'/>
